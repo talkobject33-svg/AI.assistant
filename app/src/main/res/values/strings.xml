@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AI Assistant</string>
+    <string name="accessibility_description">Lets your AI assistant perform actions you ask for by voice: tap labelled buttons, scroll, type into fields, and go back or home. It only acts on your spoken requests, never reads screens in the background, and never stores screen content. Sensitive actions require your confirmation.</string>
+</resources>
